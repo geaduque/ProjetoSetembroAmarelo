@@ -207,6 +207,10 @@ footer {
         margin-bottom: 15px;
     }
 
+    .contact-container textarea {
+        width: 80%;
+    }
+
 }
 
 @media screen and (max-width: 600px) {
@@ -214,6 +218,7 @@ footer {
         display: flex;
         flex-direction: column;
     }
+
 }
 
 /*Teste*/
